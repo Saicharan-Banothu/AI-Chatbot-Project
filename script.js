@@ -123,4 +123,5 @@ document.getElementById('send-btn')?.addEventListener('click', async () => {
 
     // Scroll to the bottom of the chat log
     chatLog.scrollTop = chatLog.scrollHeight;
+
 });
