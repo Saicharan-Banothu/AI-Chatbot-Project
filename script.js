@@ -125,3 +125,4 @@ document.getElementById('send-btn')?.addEventListener('click', async () => {
     chatLog.scrollTop = chatLog.scrollHeight;
 
 });
+
